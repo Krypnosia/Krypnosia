@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello Github 👋
+🇫🇷 • Krypnosia est un serveur Minecraft Français encore en développement.
+🔧 • Il sera sur le thème du célèbre mode de jeu SkyBlock mais version revisité !
 
-<!--
-**Krypnosia/Krypnosia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+➡ Ce GitHub répertorie tous les projets du Serveur. Nous essayerons de développer des outils open sources pour améliorer les serveurs Minecraft.
 
-Here are some ideas to get you started:
+### Nous suivre?
+Twitter: Bientôt
+Discord: Bientôt
+YouTube: Bientôt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Développeurs
+Lead: [@SamLDM](https://github.com/samldm)
+
+Nous sommes à la recherche de développeurs Java, contactez nous à cette adresse pour toute candidature:
+krypnosia.mc@gmail.com
